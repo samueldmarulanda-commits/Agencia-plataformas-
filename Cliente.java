@@ -70,5 +70,6 @@ public class Cliente {
         cliente1.acumularPuntos(100);
         cliente1.acumularPuntos(250);
         System.out.println("Total de puntos: " + cliente1.getPuntos());
+        
     }
 }
